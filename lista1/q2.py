@@ -27,7 +27,7 @@ if(caveira_invocada > dragao_azul):
 elif(dragao_azul > caveira_invocada):
     print("VENCEDOR DA 2 BATALHA: YUMI\n"
            "DRAGÃO BRANCO DOS OLHOS AZUIS VENCEU O DUELO\n")
-    cont2+=1
+    cont+=1
 
 if(cont2 == 2):
     print("KAIBA VENCEDOR DO DUELO")
